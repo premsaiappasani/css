@@ -1,0 +1,30 @@
+img {
+  background-color: #ffffbf;
+}
+body {
+  background-color: #ddddff;
+}
+#heading {
+  color: #000000;
+  font-size: 300%;
+  text-shadow: #111111 1px 3px 5px;
+}
+nav {
+  color: #ff0000;
+  font-size: 130%;
+}
+.font1 {
+  font-family: cursive, sans-serif;
+}
+h2 {
+  text-align: center;
+}
+h2:hover {
+  color: #0000ff;
+  background-color: #ffff00;
+  font-size: 200%;
+  padding: 10px;
+}
+a:visited {
+  color: green;
+}
